@@ -1,3 +1,33 @@
 h1 {
     color: #00f;
+    font-size: 100px;
+}
+
+pre {
+    font-family: Arial;
+    background-color: bisque;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*LoVe-HeAt*/
+
+a:link { /*伪类*/
+    color: blue;
+}
+
+a:visited {
+    color: #0f0;
+}
+
+a:hover {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+a:active {
+    color: red;
 }
