@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+.test1 {
+    color: lime;
+}
+
+h1.test1 { /*交集选择器*/
+    color: blue;
+}
+
+.gray {
+    color: gray;
+}
+
+#gray {
+    color: darkgray;
+}
+
+.h1 {
+
+}
+
+b,
+em,
+ins,
+del {
+    color: red;
+}
