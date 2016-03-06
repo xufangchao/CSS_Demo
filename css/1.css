@@ -31,3 +31,19 @@ a:hover {
 a:active {
     color: red;
 }
+
+.red {
+    color: red;
+}
+
+.bg-red { /*class*/
+    background-color: red;
+}
+
+#purple {
+    color: purple;
+}
+
+#test{
+    background-color: lime;
+}
