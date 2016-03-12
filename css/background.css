@@ -1,0 +1,4 @@
+body {
+    height: 2000px;
+    background: 50% 0 aqua url("../image/googlelogo_color_272x92dp.png") no-repeat fixed; /*left top*/
+}

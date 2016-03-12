@@ -25,6 +25,16 @@ h1.test1 { /*交集选择器*/
 b,
 em,
 ins,
+.test,
+#gray,
 del {
     color: red;
+}
+
+p b {
+    color: blue;
+}
+
+p i b {
+    color: lime;
 }
