@@ -1,0 +1,13 @@
+* {
+    /*通配符 野牌 wild card 外卡 癞子 会*/
+    margin: 0; /*外边距*/
+    padding: 0; /*内边距*/
+}
+
+div {
+    background: #ddd;
+    padding: 50px;
+    margin: 30px 0 0;
+    border: 10px dashed #00f;
+    border-bottom: 1px dotted #f00;
+}
